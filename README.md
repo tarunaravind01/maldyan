@@ -12,3 +12,6 @@ The Malware Sandbox Tool is a Python-based platform designed for analyzing vario
 - Simulates network services and protocols to deceive malware into interacting with legitimate command servers.
 - Generates comprehensive reports highlighting the presence of indicators and assisting in threat analysis.
 - Optimizes performance to minimize processing time and resource usage.
+
+
+In Progress...
